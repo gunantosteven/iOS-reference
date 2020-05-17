@@ -1,5 +1,5 @@
 # iOS-reference
-iOS reference is my reference about learning iOS from scratch. It contains many iOS projects, resources, helpful link, etc.
+iOS reference is my reference about learning iOS from scratch. It contains many example of iOS projects, resources, helpful link, etc.
 
 ## List of Frameworks
 
