@@ -26,7 +26,7 @@ iOS reference is my reference about learning iOS from scratch. It contains many 
 - [CocoaPods](https://cocoapods.org/) - CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects. It has over 33 thousand libraries and is used in over 2.2 million apps. CocoaPods can help you scale your projects elegantly.
 - [Xcconfig Guide](https://www.appcoda.com/xcconfig-guide) - Using Xcode Configuration (.xcconfig) to Manage Different Build Settings.
 
-## App I created on App Store
+## Apps I Created on App Store
 
 - [Dog Master - Dog Lover App](https://apps.apple.com/us/app/dog-master-dog-lover-app/id1510670669)
 
